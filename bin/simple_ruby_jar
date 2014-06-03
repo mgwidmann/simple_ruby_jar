@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'simple_ruby_jar'
+puts SimpleRubyJar.hello_world
